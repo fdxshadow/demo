@@ -1,0 +1,8 @@
+Informacion relevante:
+	-Me pide informacion del beneficiario: nombre y direccion donde se enviara el cheque
+	-Al parecer amazon nos genera un beneficio por las ventas.
+
+	Identificacion de asociado : grad0c3-20
+
+	key access : AKIAIF33NK4ACEWZGJUQ
+	key secret : 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

@@ -1,5 +1,5 @@
 {
-  "name": "demo",
+  "name": "ejemplo",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -30,7 +30,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/francisco/demo.git"
+    "url": "git://github.com/francisco/ejemplo.git"
   },
   "author": "francisco",
   "license": ""
