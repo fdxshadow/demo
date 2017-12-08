@@ -3,11 +3,9 @@ $(document).ready(function(){
 		console.log("hola")
 		io.socket.get('/mostrar',function (error,data) {
 			console.log(data);
-		});
-
 		
-
-	})
+	});
 	
 	
+});
 });
