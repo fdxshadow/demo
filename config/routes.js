@@ -35,7 +35,11 @@ module.exports.routes = {
     view:"homepage"
   },
 
-  '/mostrar':'Amazon.mostrar'
+  '/mostrar':'Amazon.mostrar',
+  '/scrapp' : 'Amazon.scrap',
+  '/mostrar1':'Amazon.mostrar1',
+  '/scrapp2' :'Amazon.scrap2',
+  '/scrapp3' : 'Amazon.scrap3'
   //'get /Eliminar/:id':'UserController.delete'
 
   /***************************************************************************

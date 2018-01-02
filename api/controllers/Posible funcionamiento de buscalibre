@@ -1,0 +1,15 @@
+-Busca libre funciona con url especificas
+-Al hacerlo de esa manera, el guardar inforacion de manera interna seria menos dinamic
+
+
+Del Link que se provee con scrapping obtenemos los colores,las tallas,tipos,versiones con sus links asociados
+
+Luego consulta a la api el link y obtiene los datos y los carga en la vista junto con los datos obtenidos por scrapping para seleccion , entonces por cada color,tallas,tipos, o versiones hay un codigo ASIN asociado , en base a ese codigo buscamos los datos de ese item en la API y podemos ir mostrando los datos en la vista
+
+
+data-dp-url esta la url asociada al producto y al cambio de precio
+
+
+<div data-dp-url>
+
+$("div[data-dp-url]")
